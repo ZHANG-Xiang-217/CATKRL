@@ -1,5 +1,7 @@
 # CATKRL
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23111290.svg)](https://doi.org/10.5281/zenodo.23111290)
+
 Code and data accompanying the manuscript
 
 > **Aligning Neural Population Patterns Facilitates Motor Learning Transfer**
@@ -25,6 +27,10 @@ The data supporting the findings of the study are available from the correspondi
 ## Citation
 
 If you use this repository, please cite the manuscript and the archived repository. Citation metadata are provided in [`CITATION.cff`](CITATION.cff).
+
+> Zhang, X., Song, Z., Shen, X., Chen, S., Huang, Y., Príncipe, J. C. & Wang, Y. Aligning Neural Population Patterns Facilitates Motor Learning Transfer. Zenodo https://doi.org/10.5281/zenodo.23111290 (2026).
+
+The DOI above resolves to the latest archived version. Each release also has its own version-specific DOI, listed on the Zenodo record.
 
 ## License
 

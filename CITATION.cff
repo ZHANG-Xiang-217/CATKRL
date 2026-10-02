@@ -19,6 +19,7 @@ authors:
   - family-names: Wang
     given-names: Yiwen
 repository-code: "https://github.com/ZHANG-Xiang-217/CATKRL"
+doi: 10.5281/zenodo.23111290
 license: MIT
 version: 0.1.0
 date-released: "2026-10-02"
