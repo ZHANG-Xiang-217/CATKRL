@@ -1,0 +1,16 @@
+{
+  "title": "Aligning Neural Population Patterns Facilitates Motor Learning Transfer",
+  "description": "Code and data accompanying the manuscript \"Aligning Neural Population Patterns Facilitates Motor Learning Transfer\". The repository hosts the implementation of Clustering Alignment-based Transfer on Kernel Reinforcement Learning (CATKRL) and a minimum segment of the dataset needed to interpret and verify the findings.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Zhang, Xiang", "affiliation": "The Hong Kong University of Science and Technology; University of Southern California"},
+    {"name": "Song, Zhiwei", "affiliation": "The Hong Kong University of Science and Technology"},
+    {"name": "Shen, Xiang", "affiliation": "The Hong Kong University of Science and Technology; Guangdong Institute of Intelligence Science and Technology"},
+    {"name": "Chen, Shuhang", "affiliation": "The Hong Kong University of Science and Technology"},
+    {"name": "Huang, Yifan", "affiliation": "The Hong Kong University of Science and Technology; The University of Hong Kong"},
+    {"name": "Príncipe, José C.", "affiliation": "The University of Florida"},
+    {"name": "Wang, Yiwen", "affiliation": "The Hong Kong University of Science and Technology"}
+  ],
+  "keywords": ["brain-machine interface", "neural decoding", "motor learning transfer", "reinforcement learning"]
+}

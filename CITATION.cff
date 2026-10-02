@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+type: software
+title: "Aligning Neural Population Patterns Facilitates Motor Learning Transfer"
+abstract: "Code and data for Clustering Alignment-based Transfer on Kernel Reinforcement Learning (CATKRL), a neural decoding framework that models motor learning transfer by aligning action-specific neural clusters across tasks."
+authors:
+  - family-names: Zhang
+    given-names: Xiang
+  - family-names: Song
+    given-names: Zhiwei
+  - family-names: Shen
+    given-names: Xiang
+  - family-names: Chen
+    given-names: Shuhang
+  - family-names: Huang
+    given-names: Yifan
+  - family-names: Príncipe
+    given-names: José C.
+  - family-names: Wang
+    given-names: Yiwen
+repository-code: "https://github.com/ZHANG-Xiang-217/CATKRL"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-02"
+keywords:
+  - brain-machine interface
+  - neural decoding
+  - motor learning transfer
+  - reinforcement learning
